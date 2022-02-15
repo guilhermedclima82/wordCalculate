@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CompareWordsLenght
+/CompareWordsLenght/bin/Debug/net6.0
+/CompareWordsLenght/obj
+/CompareWordsLenght.Test/bin/Debug/net6.0
+/CompareWordsLenght.Test/obj/Debug/net6.0
+/CompareWordsLenght.Test/obj
